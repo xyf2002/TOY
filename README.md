@@ -1,5 +1,3 @@
-
-```markdown
 ## TOY Language
 
 Welcome to the TOY Language repository. This repository contains the implementation of the TOY language, a simple educational programming language designed to demonstrate compiler development using LLVM.
@@ -70,5 +68,4 @@ You can find example TOY programs in the `examples` directory. These examples co
 ## License
 
 This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
-```
 
