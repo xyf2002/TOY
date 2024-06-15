@@ -1,19 +1,10 @@
 
 ```markdown
-# TOY Language
+## TOY Language
 
 Welcome to the TOY Language repository. This repository contains the implementation of the TOY language, a simple educational programming language designed to demonstrate compiler development using LLVM.
 
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Features](#features)
-- [Getting Started](#getting-started)
-- [Building the TOY Compiler](#building-the-toy-compiler)
-- [Running TOY Programs](#running-toy-programs)
-- [Examples](#examples)
-- [Contributing](#contributing)
-- [License](#license)
+cense)
 
 ## Introduction
 
